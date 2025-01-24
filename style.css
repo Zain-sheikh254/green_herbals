@@ -90,8 +90,8 @@ input {
 
 .leaf{
     position: relative;
-    left: 350px;
-    top: 150px;
+    left: 510px;
+    bottom: 445px;
     animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
